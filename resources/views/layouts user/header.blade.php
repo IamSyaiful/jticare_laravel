@@ -20,11 +20,6 @@
                 <div class="row align-items-center">
                     <!-- Logo -->
                     <div class="col-xl-12 col-lg-12 d-flex align-items-center">
-                        <div class="logo mr-4" style="margin-top: 10px;">
-                            <a href="{{ route('home.index') }}">
-                                <img src="{{ asset('template user/assets/img/logo/AkuPeduli.png') }}" alt="" width="100" height="100">
-                            </a>
-                        </div>
                         <div class="main-menu d-none d-lg-block flex-grow-1">
                             <nav>
                                 <ul id="navigation" class="d-flex align-items-center justify-content-center">  
